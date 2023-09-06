@@ -1,1 +1,1 @@
-# back_azimuthz_earthquake_predictions
+# earthquake_back_azimuth_predictions
